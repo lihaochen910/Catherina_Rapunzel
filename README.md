@@ -11,6 +11,6 @@ MainMenu:借助NGUI插件实现
 ![image](Preview/MainMenu.png)
 
 box_manager_dev Scene:
-![image](Preview/Test_Mission.png?raw=true)
+![image](Preview/Test_Mission.png)
 
 2016/11/22 Build.
