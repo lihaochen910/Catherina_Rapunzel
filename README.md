@@ -8,9 +8,9 @@ BoxManager.cs:
   箱子对自身的检查，包括在什么情况下可以停靠，受重力下落的判定。(未完成)
 
 MainMenu:借助NGUI插件实现
-![image](Catherina_Rapunzel/Preview/MainMenu.png)
+![image](Catherina_Rapunzel/Preview/MainMenu.png?raw=true)
 
 box_manager_dev Scene:
-![image](Catherina_Rapunzel/Preview/Test_Mission.png)
+![image](Catherina_Rapunzel/Preview/Test_Mission.png?raw=true)
 
 2016/11/22 Build.
